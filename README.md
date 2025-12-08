@@ -1,5 +1,5 @@
 # 👋 About Me
-Hi, I'm Tzu-Lun Chen — a CST (Computer Systems Technology) student at Saskatchewan Polytechnic with a strong background in system integration, technical documentation, and project coordination. Prior to this, I led large-scale defense integration efforts and collaborated with international vendors on complex system solutions. I’m now transitioning into the IT industry with a focus on software development, system analysis, and stakeholder-driven solutions.
+Hi, I'm Tzu-Lun Chen, a CST (Computer Systems Technology) student at Saskatchewan Polytechnic with a strong background in system integration, technical documentation, and project coordination. Prior to this, I led large-scale defense integration efforts and collaborated with international vendors on complex system solutions. I’m now transitioning into the IT industry with a focus on software development, system analysis, and stakeholder-driven solutions.
 
 # 📬 Contact Information
 - 📧 Email: maxinehero@gmail.com
